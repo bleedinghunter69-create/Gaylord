@@ -8,7 +8,7 @@
   "server": {
     "ip": "GaylordSMP.aternos.me",
     "port": 49181,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
